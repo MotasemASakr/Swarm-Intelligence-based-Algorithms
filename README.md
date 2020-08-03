@@ -1,7 +1,7 @@
-# Swarm-Intelligence-based Algorithms
+# Swarm Intelligence-based Algorithms
+Swarm intelligence algorithms are ethology-inspired algorithms where multiple agents cooperatively search for an optimal or near-optimal solution.
 
-
-
+---
 ## Algorithm Notebooks
 
 - Particle Swarm Optimization (POS)
