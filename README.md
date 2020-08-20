@@ -8,6 +8,9 @@ Swarm intelligence algorithms are ethology-inspired algorithms where multiple ag
 Particle Swarm Optimization (POS)
 
 - Ant Colony Optimization (ACO)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Swarm-Intelligence-based-Algorithms/blob/master/FireFly.ipynb)
+Firefly Search (FA)
+
 - Artificial Bee Colony (ABC)
 
 ---
