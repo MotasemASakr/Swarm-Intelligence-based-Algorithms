@@ -1,0 +1,3 @@
+[submodule "OSMan"]
+	path = OSMan
+	url = https://github.com/omar-3/OSMan
