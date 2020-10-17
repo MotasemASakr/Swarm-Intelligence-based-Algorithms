@@ -23,3 +23,5 @@ Firefly Search (FA)
 ## Case Study Notebooks
 
 - Ride Sharing
+
+- Last mile delivery
