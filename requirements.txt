@@ -1,0 +1,6 @@
+osmnx==0.16.0
+tqdm
+ipyleaflet
+plotly
+folium
+keplergl
