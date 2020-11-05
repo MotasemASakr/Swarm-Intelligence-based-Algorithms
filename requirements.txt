@@ -3,4 +3,3 @@ tqdm
 ipyleaflet
 plotly
 folium
-keplergl
