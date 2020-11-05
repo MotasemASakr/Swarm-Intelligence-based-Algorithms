@@ -9,24 +9,25 @@ Swarm intelligence algorithms are ethology-inspired algorithms where multiple ag
 ---
 ## Algorithm Notebooks
 
-
 - Particle Swarm Optimization :white_check_mark:
 
 - Ant Colony Optimization :white_check_mark:
 
 - Firefly Search :white_check_mark:
 
-- Artificial Bee Colony (ABC)
+- Artificial Bee Colony (ABC) :hourglass:
+
+- Stochastic Diffusion Search (SDS) :hourglass:
 
 ---
 
 ## Toy Problem Notebooks
 
-- Travelling Salesman Problem
+- Travelling Salesman Problem :hourglass:
 
 ---
 ## Case Study Notebooks
 
-- Ride Sharing
+- Ride Sharing :hourglass:
 
-- Last mile delivery
+- Last mile delivery :hourglass:
