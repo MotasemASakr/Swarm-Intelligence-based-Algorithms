@@ -39,4 +39,5 @@ Swarm intelligence algorithms are ethology-inspired algorithms where multiple ag
 
 - [PySwarms](https://pyswarms.readthedocs.io/en/latest/index.html)
 
+- [Hive](https://rwuilbercq.github.io/Hive/)
 
