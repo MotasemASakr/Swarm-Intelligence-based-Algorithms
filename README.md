@@ -33,3 +33,10 @@ Swarm intelligence algorithms are ethology-inspired algorithms where multiple ag
 - Ride Sharing :hourglass:
 
 - Last mile delivery :hourglass:
+
+---
+## Related Open-Source Tookits
+
+- [PySwarms](https://pyswarms.readthedocs.io/en/latest/index.html)
+
+
