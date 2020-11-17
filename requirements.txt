@@ -4,3 +4,4 @@ ipyleaflet
 plotly
 folium
 pyswarms
+sklearn
