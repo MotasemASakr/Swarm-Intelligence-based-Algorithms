@@ -3,3 +3,5 @@ tqdm
 ipyleaflet
 plotly
 folium
+pyswarms
+sklearn
