@@ -42,6 +42,6 @@ Swarm intelligence algorithms are ethology-inspired algorithms where multiple ag
 
 - [Hive](https://rwuilbercq.github.io/Hive/)
 
-- [ACO-Pants](https://pypi.org/project/ACO-Pants//)
+- [ACO-Pants](https://pypi.org/project/ACO-Pants/)
 
 - [Pants](https://aco-pants.readthedocs.io/en/latest/)
