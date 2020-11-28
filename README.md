@@ -44,6 +44,8 @@ Swarm intelligence algorithms are ethology-inspired algorithms where multiple ag
 
 - [ACO-Pants](https://aco-pants.readthedocs.io/en/latest/)
 
+- [ACO-TSP](https://github.com/rochakgupta/aco-tsp)
+
 - [VRPTW-ACO-python](https://github.com/jonzhaocn/VRPTW-ACO-python)
 
 - [Travel Time Optimization](https://github.com/khanhnamle1994/trip-optimizer)
