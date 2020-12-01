@@ -16,7 +16,7 @@ Swarm intelligence algorithms are ethology-inspired algorithms where multiple ag
 
 - Ant Colony Optimization :hourglass:
 
-- Firefly Search :hourglass:
+- Firefly Search :white_check_mark:
 
 - Artificial Bee Colony (ABC) :hourglass:
 
