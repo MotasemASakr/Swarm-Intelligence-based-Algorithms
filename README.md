@@ -14,7 +14,7 @@ Swarm intelligence algorithms are ethology-inspired algorithms where multiple ag
 
 - Particle Swarm Optimization :white_check_mark:
 
-- Ant Colony Optimization :hourglass:
+- Ant Colony Optimization :white_check_mark:
 
 - Firefly Search :white_check_mark:
 
