@@ -14,9 +14,9 @@ Swarm intelligence algorithms are ethology-inspired algorithms where multiple ag
 
 - Particle Swarm Optimization :white_check_mark:
 
-- Ant Colony Optimization :hourglass:
+- Ant Colony Optimization :white_check_mark:
 
-- Firefly Search :hourglass:
+- Firefly Search :white_check_mark:
 
 - Artificial Bee Colony (ABC) :hourglass:
 
@@ -42,3 +42,10 @@ Swarm intelligence algorithms are ethology-inspired algorithms where multiple ag
 
 - [Hive](https://rwuilbercq.github.io/Hive/)
 
+- [ACO-Pants](https://aco-pants.readthedocs.io/en/latest/)
+
+- [ACO-TSP](https://github.com/rochakgupta/aco-tsp)
+
+- [VRPTW-ACO-python](https://github.com/jonzhaocn/VRPTW-ACO-python)
+
+- [Travel Time Optimization](https://github.com/khanhnamle1994/trip-optimizer)
